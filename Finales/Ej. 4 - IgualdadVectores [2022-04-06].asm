@@ -1,3 +1,7 @@
+;Ver si 2 cadenas de caracteres (arreglos) son iguales. Imprimir por pantalla si son iguales o no.
+;Ambos vectores tienen igual longitud.
+
+
 INCLUDE 'emu8086.inc'
 ORG 100h
 

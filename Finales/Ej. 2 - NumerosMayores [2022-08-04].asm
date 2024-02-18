@@ -1,3 +1,6 @@
+;Dado un arreglo precargado de 12 números y dado un numero ingresado por teclado. Guardar en otro arreglo de
+;salida los números (del arreglo) que son mayores al numero ingresado"
+
 INCLUDE 'emu8086.inc'
 ORG 100h
 
